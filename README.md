@@ -4,7 +4,6 @@
  
 # Estruturas de Dados 
 
-
 Estrutura de dados é um modo particular de organização e armazenamento de dados na memória de um computador, de modo que possam ser usados de forma mais eficiente. É um conceito importantissimo, e utilizado em diversas áreas da computação. No geral, em uma estrutura de dados precisamos saber como realizar um determinado conjunto de operações básicas, como por exemplo:
 - Inserir um novo item
 - Excluir um item existente
@@ -23,8 +22,12 @@ Iremos abordar...
 # Pilhas 
 # Tabela hash 
 # Mapas 
-
-
+ 
+   
+   
+   
+   
+   
 # Ponteiros
  >“Os ponteiros são variáveis, como muitas outras. [...] A
 diferença é que ao invés de armazenarem informações
