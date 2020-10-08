@@ -32,10 +32,11 @@ Supondo que você declarou 3 variáveis do tipo 'int'. Cada variável do tipo 'i
 
 Agora criaremos novas variáveis, os ponteiros, apontando para o endereço de memória das variáveis criadas anteriormente.
 
-```int *px = &x;
-   int *py = &y;
-   int *pz = &z
 ```
+int *px = &x;
+int *py = &y;
+int *pz = &z
+ ```
 & -> informa o endereço de uma variável
 
 ![ponteiro2](https://user-images.githubusercontent.com/72525405/95511538-fdeae300-098d-11eb-9364-2fefe6f5592c.PNG)
