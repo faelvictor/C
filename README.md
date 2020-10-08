@@ -18,7 +18,7 @@ mensagens formais;
 - Os computações precisam de endereços (IP) para
 comunicarem entre si
 
-A própria memória RAM de um computador é dividida emendereços.Um computador com 8GB de RAM pode ter até 8 bilhõesde endereços (se divida em pedacinho de 1 byte).
+A própria memória RAM de um computador é dividida emendereços. Um computador com 8GB de RAM pode ter até 8 bilhõesde endereços (se divida em pedacinho de 1 byte).
 Só é possível encontrar dados, porque toda a memória está endereçada.
 É aqui que entram os ponteiros. São variáveis que armazenam o endereço de outra variável.
 Um pouco confuso né? Vou ilustrar
