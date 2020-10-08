@@ -17,6 +17,10 @@ correspondências;
 mensagens formais;
 - Os computações precisam de endereços (IP) para
 comunicarem entre si
+
+A própria memória RAM de um computador é dividida emendereços.Um computador com 8GB de RAM pode ter até 8 bilhõesde endereços (se divida em pedacinho de 1 byte).
+Só é possível encontrar dados, porque toda a memória está endereçada.
+É aqui que entram os ponteiros. São variáveis que armazenam o endereço de outra variável.
  
 # Estruturas de Dados 
 Estrutura de dados é um modo particular de organização e armazenamento de dados na memória de um computador, de modo que possam ser usados de forma mais eficiente. É um conceito importantissimo, e utilizado em diversas áreas da computação. No geral, em uma estrutura de dados precisamos saber como realizar um determinado conjunto de operações básicas, como por exemplo:
