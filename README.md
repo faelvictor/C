@@ -24,7 +24,7 @@ Iremos abordar...
 ## Mapas 
  
    
-# Ponteiros
+# 1 - Ponteiros
  >“Os ponteiros são variáveis, como muitas outras. [...] A
 diferença é que ao invés de armazenarem informações
 como verdadeiro, falso, o nome ou idade de uma pessoa,
