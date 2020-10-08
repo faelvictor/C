@@ -1,4 +1,4 @@
-O programa simula o trabalho de um operador de caixa de supermercado, usando a estrutura fila
+O programa simula o trabalho de um operador de caixa de supermercado, usando a estrutura fila.
 Contém as seguintes funcionalidades:
 
 1 - Abre o caixa,

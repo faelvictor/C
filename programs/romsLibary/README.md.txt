@@ -10,7 +10,7 @@ Contém as seguintes funcionalidades:
 4 - Consulta ROM,
 	imprime todas informaçoes da ROM
 5 - Imprime Catálogo,
-	imprime todas as informaçoes de todas as ROM's.
+	imprime todas as informaçoes de todas as ROM's 
 
 
 

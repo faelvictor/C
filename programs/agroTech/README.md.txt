@@ -8,8 +8,6 @@ Contém as seguintes funcionalidades:
 	cadastra lote de produção, consulta algum lote e remove algum lote.
 3 - Relatórios,
 	lista quantidade de produtores cadastrados totais, quantidade de produtores ativos e inativos.
-	lista a quantidade de lotes armazenados.
+	lista a quantidade de lotes armazenados
 4 - Zera lotes,
 	Exclui todos os lotes
-
-As funçoes insereProdutor, editarProdutor e buscaProdutor foram escritas em C++, o restante em C. 
