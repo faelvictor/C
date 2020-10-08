@@ -23,13 +23,28 @@ Só é possível encontrar dados, porque toda a memória está endereçada.
 É aqui que entram os ponteiros. São variáveis que armazenam o endereço de outra variável.
 Um pouco confuso né? Vou ilustrar
 
-Supondo que você declarou 3 variáveis do tipo 'int'. Cada variável precisa de 4 bytes na memória.
+Supondo que você declarou 3 variáveis do tipo 'int'. Cada variável do tipo 'int' precisa de 4 bytes na memória.
 
 ```int x = 2, y = 3, z = x + y:```
 
 
 ![ponteiro](https://user-images.githubusercontent.com/72525405/95510104-c9762780-098b-11eb-87ef-aa0284e89110.PNG)
 
+Agora criaremos novas variáveis, os ponteiros, apontando para o endereço de memória das variáveis criadas anteriormente.
+
+```int *px = &x;
+   int *py = &p;
+   int *pz = &z
+```
+& -> informa o endereço de uma variável
+* -> informa o conteúdo armazenado em uma variável
+
+![ponteiro2](https://user-images.githubusercontent.com/72525405/95511538-fdeae300-098d-11eb-9364-2fefe6f5592c.PNG)
+
+Em outras palavras:
+- px conterá o endereço da variável x;
+- py conterá o endereço da variável y;
+- pz conterá o endereço da variável z.
  
 # Estruturas de Dados 
 
