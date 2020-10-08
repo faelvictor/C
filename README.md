@@ -21,6 +21,10 @@ comunicarem entre si
 A própria memória RAM de um computador é dividida emendereços.Um computador com 8GB de RAM pode ter até 8 bilhõesde endereços (se divida em pedacinho de 1 byte).
 Só é possível encontrar dados, porque toda a memória está endereçada.
 É aqui que entram os ponteiros. São variáveis que armazenam o endereço de outra variável.
+Um pouco confuso né? Vou ilustrar
+
+Supondo que você declarou 3 variáveis do tipo 'int'. Cada variável precisa de 4 bytes na memória.
+```int x = 2, y = 3, z = x + y:```
  
 # Estruturas de Dados 
 
