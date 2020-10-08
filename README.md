@@ -37,7 +37,6 @@ Agora criaremos novas variáveis, os ponteiros, apontando para o endereço de me
    int *pz = &z
 ```
 & -> informa o endereço de uma variável
-* -> informa o conteúdo armazenado em uma variável
 
 ![ponteiro2](https://user-images.githubusercontent.com/72525405/95511538-fdeae300-098d-11eb-9364-2fefe6f5592c.PNG)
 
