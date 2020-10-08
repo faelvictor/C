@@ -15,18 +15,14 @@ Os tipos de estruturas de dados estão relacionadas exatamente com o COMO aquela
 Uma estrutura de dados bem definida consegue resolver problemas extremamente complexos de forma simples, mas afinal, ques estruturas são essas? 
 Iremos abordar... 
 
-# Ponteiros
-# Listas 
-# Listas Duplamente Encadeadas 
-# Filas 
-# Pilhas 
-# Tabela hash 
-# Mapas 
+## Ponteiros
+## Listas 
+## Listas Duplamente Encadeadas 
+## Filas 
+## Pilhas 
+## Tabela hash 
+## Mapas 
  
-   
-   
-   
-   
    
 # Ponteiros
  >“Os ponteiros são variáveis, como muitas outras. [...] A
