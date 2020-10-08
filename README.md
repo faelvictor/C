@@ -24,7 +24,10 @@ Só é possível encontrar dados, porque toda a memória está endereçada.
 Um pouco confuso né? Vou ilustrar
 
 Supondo que você declarou 3 variáveis do tipo 'int'. Cada variável precisa de 4 bytes na memória.
+
 ```int x = 2, y = 3, z = x + y:```
+![ponteiro](https://user-images.githubusercontent.com/72525405/95510104-c9762780-098b-11eb-87ef-aa0284e89110.PNG)
+
  
 # Estruturas de Dados 
 
