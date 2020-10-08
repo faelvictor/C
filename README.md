@@ -9,7 +9,8 @@ Estrutura de dados é um modo particular de organização e armazenamento de dad
 - Buscar algum item 
 - Ordernar um item
 - Editar um item
-.Os tipos de estruturas de dados estão relacionadas exatamente com o COMO aquela estrutura irá fazer essas operaçoes. Inserir no final ou no inicio? Remover um item no final ou no inicio? São essas respostas que irão determinar as caracteristicas de cada estrutura.
+
+Os tipos de estruturas de dados estão relacionadas exatamente com o COMO aquela estrutura irá fazer essas operaçoes. Inserir no final ou no inicio? Remover um item no final ou no inicio? São essas respostas que irão determinar as caracteristicas de cada estrutura.
 Uma estrutura de dados bem definida consegue resolver problemas extremamente complexos de forma simples, mas afinal, ques estruturas são essas? 
 Iremos abordar... 
 
