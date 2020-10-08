@@ -57,7 +57,7 @@ Agora criaremos novas variáveis, os ponteiros, apontando para o endereço de me
 ```
 int *px = &x;
 int *py = &y;
-int *pz = &z
+int *pz = &z;
  ```
 & -> informa o endereço de uma variável
 
@@ -68,5 +68,5 @@ Em outras palavras:
 - py conterá o endereço da variável y;
 - pz conterá o endereço da variável z.
 
-Entenda que uma variável possui o conteúdo (um numero, uma string, falso, verdadeiro...), e o seu endereço de memória (onde foi alocado na memória).
+Entenda que uma variável possui o conteúdo (um numero, uma string, falso, verdadeiro...), e o seu endereço de memória (onde ela foi alocado na memória).
  
