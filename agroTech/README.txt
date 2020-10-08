@@ -11,3 +11,5 @@ Contém as seguintes funcionalidades:
 	lista a quantidade de lotes armazenados
 4 - Zera lotes,
 	Exclui todos os lotes
+
+As funçoes insereProdutor, editarProdutor e buscaProdutor foram escritas em C++, o restante em C. 
