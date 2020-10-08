@@ -18,7 +18,7 @@ mensagens formais;
 - Os computações precisam de endereços (IP) para
 comunicarem entre si
 
-A própria memória RAM de um computador é dividida emendereços. Um computador com 8GB de RAM pode ter até 8 bilhõesde endereços (se divida em pedacinho de 1 byte).
+A própria memória RAM de um computador é dividida emendereços. Um computador com 8GB de RAM pode ter até 8 bilhões de endereços (se divida em pedacinho de 1 byte).
 Só é possível encontrar dados, porque toda a memória está endereçada.
 É aqui que entram os ponteiros. São variáveis que armazenam o endereço de outra variável.
 Um pouco confuso né? Vou ilustrar
@@ -44,6 +44,8 @@ Em outras palavras:
 - px conterá o endereço da variável x;
 - py conterá o endereço da variável y;
 - pz conterá o endereço da variável z.
+
+Entenda que uma variável possui o conteúdo (um numero, uma string, falso, verdadeiro...), e o seu endereço de memória (onde foi alocado na memória).
  
 # Estruturas de Dados 
 
