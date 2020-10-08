@@ -7,7 +7,7 @@
 diferença é que ao invés de armazenarem informações
 como verdadeiro, falso, o nome ou idade de uma pessoa,
 os ponteiros armazenam os endereços de memória onde
-essas variáveis estão armazenadas”
+essas variáveis estão armazenadas” (PIVA JUNIOR, p. 454, 2014).
  
 # Estruturas de Dados 
 Estrutura de dados é um modo particular de organização e armazenamento de dados na memória de um computador, de modo que possam ser usados de forma mais eficiente. É um conceito importantissimo, e utilizado em diversas áreas da computação. No geral, em uma estrutura de dados precisamos saber como realizar um determinado conjunto de operações básicas, como por exemplo:
