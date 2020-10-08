@@ -23,6 +23,8 @@ Só é possível encontrar dados, porque toda a memória está endereçada.
 É aqui que entram os ponteiros. São variáveis que armazenam o endereço de outra variável.
  
 # Estruturas de Dados 
+
+
 Estrutura de dados é um modo particular de organização e armazenamento de dados na memória de um computador, de modo que possam ser usados de forma mais eficiente. É um conceito importantissimo, e utilizado em diversas áreas da computação. No geral, em uma estrutura de dados precisamos saber como realizar um determinado conjunto de operações básicas, como por exemplo:
 - Inserir um novo item
 - Excluir um item existente
