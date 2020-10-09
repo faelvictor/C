@@ -70,6 +70,6 @@ asterisco -> informa o conteúdo armazenado em uma variável
 - pz conterá o endereço da variável z.
 
 Utilizando a alocação dinamica de memória, permite que o espaço em memória seja alocado apenas quando necessário. 
-A maior vantagem no uso da alocação dinâmica de memória é que, dado o endereço inicial da área alocada e o índice de um elemento, podemos acessá-lo imediatamente, com um simples e rápido cálculo. 
+A maior vantagem no uso da alocação dinâmica é que, dado o endereço inicial da área alocada e o índice de um elemento, podemos acessá-lo imediatamente, com um simples e rápido cálculo. 
 O grande problema está em não poder redimensionar o uso de memória de uma estrutura, ou seja, deve ser conhecido previamente e de tamanho imutável.
  
