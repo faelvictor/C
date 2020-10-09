@@ -1,5 +1,6 @@
 # Introdução
  Esse repositório foi criado com intuito de centralizar e compartilhar conhecimentos em estrutura de dados com a linguagens C, adquiridos no curso de Bacharelado em Ciencia da Computação na disciplina Estrutura de Dados I.
+ 
  Os códigos tratam-se de pequenos programas e exemplos, que aplicam o tratamento de dados com Tabela Hash, Mapa, Fila, Pilha e Listas. Antes de se aventurar nas várias estruturas de dados da linguagem C, precisamos deixar claro duas coisas: a escolha da estrutura dependerá exclusivamente da sua aplicação, e o conceito de ponteiros é imprescindível para aprender essas estruturas.
  
 # Estruturas de Dados 
