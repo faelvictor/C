@@ -42,7 +42,8 @@ comunicarem entre si
 
 A própria memória RAM de um computador é dividida em endereços. Um computador com 8GB de RAM pode ter até 8 bilhões de endereços (se divida em pedacinho de 1 byte).
 Só é possível encontrar dados, porque toda a memória está endereçada.
-É aqui que entram os ponteiros. São variáveis que armazenam o endereço de outra variável.
+É aqui que entram os ponteiros. A memória alocada dinamicamente é acessada por esses ponteiros, que na verdade
+são variáveis que armazenam o endereço de uma área de memória.
 Um pouco confuso né? Vou ilustrar:
 
 Supondo que você declarou 3 variáveis do tipo 'int'. Cada variável do tipo 'int' precisa de 4 bytes de espaço na memória.
@@ -60,7 +61,7 @@ int *py = &y;
 int *pz = &z;
  ```
 & -> informa o endereço de uma variável
-* -> informa o conteúdo armazenado em uma variável
+asterisco -> informa o conteúdo armazenado em uma variável
 
 ![ponteiro2](https://user-images.githubusercontent.com/72525405/95511538-fdeae300-098d-11eb-9364-2fefe6f5592c.PNG)
 
@@ -68,5 +69,7 @@ int *pz = &z;
 - py conterá o endereço da variável y;
 - pz conterá o endereço da variável z.
 
-Entenda que uma variável possui o conteúdo (um numero, uma string, falso, verdadeiro...), e o seu endereço de memória (onde ela foi alocado na memória).
+Utilizando a alocação dinamica de memória, permite que o espaço em memória seja alocado apenas quando necessário. 
+A maior vantagem no uso da alocação dinâmica de memória é que, dado o endereço inicial da área alocada e o índice de um elemento, podemos acessá-lo imediatamente, com um simples e rápido cálculo. 
+O grande problema está em não poder redimensionar o uso de memória de uma estrutura, ou seja, deve ser conhecido previamente e de tamanho imutável.
  
