@@ -63,7 +63,6 @@ int *pz = &z;
 
 ![ponteiro2](https://user-images.githubusercontent.com/72525405/95511538-fdeae300-098d-11eb-9364-2fefe6f5592c.PNG)
 
-Em outras palavras:
 - px conterá o endereço da variável x;
 - py conterá o endereço da variável y;
 - pz conterá o endereço da variável z.
