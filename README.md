@@ -13,8 +13,9 @@ Estrutura de dados é um modo particular de organização e armazenamento de dad
 - Editar um item
 
 Os tipos de estruturas de dados estão relacionadas exatamente com o COMO aquela estrutura irá fazer essas operaçoes. Inserir no final ou no inicio? Remover um item no final ou no inicio? São essas respostas que irão determinar as caracteristicas de cada estrutura.
+
 Uma estrutura de dados bem definida consegue resolver problemas extremamente complexos de forma simples, mas afinal, ques estruturas são essas? 
-Vou abordar... 
+Irei abordar as seguintes estruturas:
 
 ## Ponteiros
 ## Listas 
@@ -73,5 +74,6 @@ asterisco -> informa o conteúdo armazenado em uma variável
 
 Utilizando a alocação dinamica de memória, permite que o espaço em memória seja alocado apenas quando necessário. 
 A maior vantagem no uso da alocação dinâmica é que, dado o endereço inicial da área alocada e o índice de um elemento, podemos acessá-lo imediatamente, com um simples e rápido cálculo. 
+
 O grande problema está em não poder redimensionar o uso de memória de uma estrutura, ou seja, deve ser conhecido previamente e de tamanho imutável.
  
