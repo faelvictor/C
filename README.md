@@ -78,3 +78,7 @@ A maior vantagem no uso da alocação dinâmica é que, dado o endereço inicial
 O grande problema está em não poder redimensionar o uso de memória de uma estrutura, ou seja, deve ser conhecido previamente e de tamanho imutável.
  
 # 2 - Listas
+
+Pense o conceito de lista em uma lista de compras. Uma lista de compras você insere os produtos que vão ser comprados, e quando forem, você elimina eles da lista.
+Isso significa que a lista pode aumentar ou diminuir. Já em uma lista em estrutura de dados possui os **nós**.
+**Nós** são elementos que preenchem a lista, cada nó será armazenado em uma struct, ou seja, cada nó possui suas próprias informaçoes.
