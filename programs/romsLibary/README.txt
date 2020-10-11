@@ -12,6 +12,7 @@ Contém as seguintes funcionalidades:
 5 - Imprime Catálogo,
 	imprime todas as informaçoes de todas as ROM's 
 
+Boa parte do código foi escrito em C++
 
 
 	
