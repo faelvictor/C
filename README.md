@@ -77,3 +77,4 @@ A maior vantagem no uso da alocação dinâmica é que, dado o endereço inicial
 
 O grande problema está em não poder redimensionar o uso de memória de uma estrutura, ou seja, deve ser conhecido previamente e de tamanho imutável.
  
+#Listas
