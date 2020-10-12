@@ -87,3 +87,4 @@ Mas oque é uma lista linear ?
 
 Linear ou unidemensional, significa que é possivel buscar as informações sequencialmente, uma após a outra.
 A lista linear também é dinâmica, ou seja, pode aumentar ou diminuir sob demanda, conforme o crescimento do programa.
+Por serem dinâmicos, os nós são armazenados na área de heap do processo.
