@@ -130,3 +130,7 @@ Cada nó é uma 'struct tipo no' que é composta de:
 - um campo prox, ponteiro para outro nó
 
 Claro que podem haver mais dados, mas vamos manter a estrutura simplificada.
+
+Depois de adicionar três elementos na lista linear, visualmente ficaria assim:
+![lista1](https://user-images.githubusercontent.com/72525405/95789868-b4afd180-0cb4-11eb-8f9a-786992578735.PNG)
+
