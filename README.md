@@ -94,7 +94,7 @@ Esse primeiro endereço deve ser armazenado por uma variável.
 
 A estrutura de lista lembra a de um vetor, mas há algumas diferenças.
 
-**LISTA x VETOR**
+**LISTA vs VETOR**
 
 - **Acesso**
 
