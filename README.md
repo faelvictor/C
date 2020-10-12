@@ -18,7 +18,7 @@ Uma estrutura de dados bem definida consegue resolver problemas extremamente com
 Irei abordar as seguintes estruturas:
 
 ## Ponteiros
-## Listas 
+## Lista Linear
 ## Listas Duplamente Encadeadas 
 ## Filas 
 ## Pilhas 
@@ -77,9 +77,12 @@ A maior vantagem no uso da alocação dinâmica é que, dado o endereço inicial
 
 O grande problema está em não poder redimensionar o uso de memória de uma estrutura, ou seja, deve ser conhecido previamente e de tamanho imutável.
  
-# 2 - Listas
+# 2 - Lista Linear
 
-Pense o conceito de lista em uma lista de compras. Uma lista de compras você escreve (insere) os produtos que vão ser comprados, e quando forem, você risca eles da lista (exclui).
-Isso significa que a lista pode aumentar ou diminuir. Já em uma lista em estrutura de dados possui os **nós**.
+Pense o conceito de lista em uma lista de compras. Uma lista de compras você escreve (insere) os produtos que serão comprados e quando forem, você risca eles da lista (exclui).
+Já em uma lista em estrutura de dados possui os **nós**.
 
-Nós são elementos que preenchem a lista, cada nó será armazenado em uma struct, ou seja, cada nó possui suas próprias informaçoes.
+Nós são elementos que preenchem a lista, cada nó é um registro que será armazenado em uma struct, ou seja, cada nó possui suas próprias informaçoes.
+Mas oque é uma lista linear ? 
+Linear ou unidemensional, significa que é possivel buscar as informações sequencialmente, uma após a outra.
+A lista linear também é dinâmica, ou seja, pode aumentar ou diminuir sob demanda, conforme o crescimento do programa.
