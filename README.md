@@ -84,5 +84,7 @@ Já em uma lista em estrutura de dados possui os **nós**.
 
 Nós são elementos que preenchem a lista, cada nó é um registro que será armazenado em uma struct, ou seja, cada nó possui suas próprias informaçoes.
 Mas oque é uma lista linear ? 
+
 Linear ou unidemensional, significa que é possivel buscar as informações sequencialmente, uma após a outra.
+
 A lista linear também é dinâmica, ou seja, pode aumentar ou diminuir sob demanda, conforme o crescimento do programa.
