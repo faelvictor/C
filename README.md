@@ -133,4 +133,10 @@ Claro que podem haver mais dados, mas vamos manter a estrutura simplificada.
 
 Depois de adicionar três elementos na lista linear, visualmente ficaria assim:
 ![lista1](https://user-images.githubusercontent.com/72525405/95789868-b4afd180-0cb4-11eb-8f9a-786992578735.PNG)
+Os valores 1, 2 e 3 representam os valores armazenados no campo info.
+Os valores 500, 508 e 516 são endereços de memória hipotéticos.
+
+O primeiro nó aponta para o segundo, e o segundo aponta para o terceiro.
+O terceiro nó não aponta para ninguém, pois ele é o final da lista.
+E quem é início? É o ponteiro que armazena o endereço do início da lista, ou seja, do primeiro nó.
 
