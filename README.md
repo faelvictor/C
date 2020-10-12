@@ -122,3 +122,11 @@ struct tipo_no {
 };
 typedef struct tipo_no no;
 ```
+
+A estrutura define um tipo camado 'no'.
+
+Cada nó é uma 'struct tipo no' que é composta de:
+-> um campo info, inteiro;
+-> um campo prox, ponteiro para outro nó
+
+Claro que podem haver mais dados, mas vamos manter a estrutura simplificada.
