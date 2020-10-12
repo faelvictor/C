@@ -93,4 +93,5 @@ Para acessar esses nós, primeiro é necessário saber pelo menos o endereço do
 Esse primeiro endereço deve ser armazenado por uma variável.
 
 A estrutura de lista lembra a de um vetor, mas há algumas diferenças.
-** LISTA x VETOR **
+
+**LISTA x VETOR**
