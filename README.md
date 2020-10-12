@@ -19,11 +19,11 @@ Irei abordar as seguintes estruturas:
 
 ## Ponteiros
 ## Lista Linear
-## Listas Duplamente Encadeadas 
-## Filas 
-## Pilhas 
+## Lista Duplamente Encadeada 
+## Fila
+## Pilha
 ## Tabela hash 
-## Mapas 
+## Mapa
  
    
 # 1 - Ponteiros
