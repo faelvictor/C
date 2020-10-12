@@ -96,8 +96,8 @@ A estrutura de lista lembra a de um vetor, mas há algumas diferenças.
 
 **LISTA x VETOR**
 
--Acesso
- -Os elementos de um vetor podem ser acessados diretamente,
+- Acesso
+ - Os elementos de um vetor podem ser acessados diretamente,
   por meio de seus índices.
-  -Nas listas os nós são acessados sequencialmente, um
+  - Nas listas os nós são acessados sequencialmente, um
   após o outro, pelos ponteiros.
