@@ -79,6 +79,7 @@ O grande problema está em não poder redimensionar o uso de memória de uma est
  
 # 2 - Listas
 
-Pense o conceito de lista em uma lista de compras. Uma lista de compras você insere os produtos que vão ser comprados, e quando forem, você elimina eles da lista.
+Pense o conceito de lista em uma lista de compras. Uma lista de compras você escreve (insere) os produtos que vão ser comprados, e quando forem, você risca eles da lista (exclui).
 Isso significa que a lista pode aumentar ou diminuir. Já em uma lista em estrutura de dados possui os **nós**.
-**Nós** são elementos que preenchem a lista, cada nó será armazenado em uma struct, ou seja, cada nó possui suas próprias informaçoes.
+
+Nós são elementos que preenchem a lista, cada nó será armazenado em uma struct, ou seja, cada nó possui suas próprias informaçoes.
