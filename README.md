@@ -85,7 +85,7 @@ Já em uma lista em estrutura de dados possui os **nós**.
 Nós são elementos que preenchem a lista, cada nó é um registro que será armazenado em uma struct, ou seja, cada nó possui suas próprias informaçoes.
 Mas oque é uma lista linear ? 
 
-Linear ou unidemensional, significa que é possivel buscar as informações sequencialmente, uma após a outra.
+Lista linear ou unidemensional, significa que é possivel buscar as informações sequencialmente, uma após a outra.
 A lista linear também é dinâmica, ou seja, pode aumentar ou diminuir sob demanda, conforme o crescimento do programa.
 Por serem dinâmicos, os nós são armazenados na área de heap do processo.
 
@@ -98,8 +98,27 @@ A estrutura de lista lembra a de um vetor, mas há algumas diferenças.
 
 - **Acesso**
 
-Vetor -> Os elementos de um vetor podem ser acessados diretamente,
+Vetor = Os elementos de um vetor podem ser acessados diretamente,
 por meio de seus índices.
 
-Listas -> Nas listas os nós são acessados sequencialmente, um
+Listas = Nas listas os nós são acessados sequencialmente, um
 após o outro, pelos ponteiros.
+
+- **Alocação**
+
+Vetor = Os vetores são alocados antes da execução do processo,
+sendo que todo espaço previsto para o vetor já é alocado e
+reservado, sem possibilidades de ajustes
+
+Listas = Nas listas o espaço em memória é alocado conforme o
+necessário.
+
+Vamos tomar como exemplo uma lista com três nós. Cada nó possui a seguinte estrutura:
+
+```
+struct tipo_no {
+  int info;
+  struct tipo_no *prox;
+};
+typedef struct tipo_no no;
+```
