@@ -100,6 +100,7 @@ A estrutura de lista lembra a de um vetor, mas há algumas diferenças.
 
 Vetor = Os elementos de um vetor podem ser acessados diretamente,
 por meio de seus índices.
+
 Listas = Nas listas os nós são acessados sequencialmente, um
 após o outro, pelos ponteiros.
 
@@ -108,6 +109,7 @@ após o outro, pelos ponteiros.
 Vetor = Os vetores são alocados antes da execução do processo,
 sendo que todo espaço previsto para o vetor já é alocado e
 reservado, sem possibilidades de ajustes
+
 Listas = Nas listas o espaço em memória é alocado conforme o
 necessário.
 
