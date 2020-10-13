@@ -141,8 +141,7 @@ O primeiro nó aponta para o segundo, e o segundo aponta para o terceiro.
 O terceiro nó não aponta para ninguém, pois ele é o final da lista.
 E quem é início? É o ponteiro que armazena o endereço do início da lista, ou seja, do primeiro nó.
 
-## Inicialização de uma lista
-
+**Inicialização de uma lista**
 A inicialização de uma lista consiste em fazer com que o primeiro ponteiro aponte para NULL, ou seja, a lista é uma lista vazia, não há nenhum nó inserido.
 É importante entender que essa inicialização, pois com esse primeiro ponteiro com valor NULL é que vamos conseguir prosseguir nossas operaçoes.
 
