@@ -1,4 +1,4 @@
-O programa simula um software de rastreamento de produtos do ramo da agricultura. Foram utilizados estrutura de mapas e hash.
+Programa de rastreamento de lotes de produção. Foram utilizados estrutura de mapas e hash.
 Contém as seguintes funcionalidades:
 
 1 - Produtor,
