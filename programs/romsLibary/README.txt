@@ -1,4 +1,4 @@
-O programa simula uma biblioteca de ROMs de SNES, onde armazena os dados de cada uma das ROM's na estrutura tabela Hash.
+O programa simula uma biblioteca de ROMs de SNES, utilizado estrutura tabela Hash.
 Contém as seguintes funcionalidades:
 
 1 - Cadastra ROM,
