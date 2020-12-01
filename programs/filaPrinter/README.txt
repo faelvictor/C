@@ -1,4 +1,4 @@
-O programa simula uma fila de impressao dinâmica, utilizando estrutura filas e ponteiros.
+O programa simula uma fila de impressão, utilizando estrutura filas e ponteiros.
 Contém as seguintes funcionalidades:
 
 1 - Envia impressao,
